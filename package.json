@@ -1,0 +1,24 @@
+{
+  "name": "git_pratice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optdesigner/git_pratice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/optdesigner/git_pratice/issues"
+  },
+  "homepage": "https://github.com/optdesigner/git_pratice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
